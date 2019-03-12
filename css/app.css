@@ -22,6 +22,7 @@ main {
     main section:first-child {
         max-width: 45%;
     }
+    header section:nth-child(2),
     main section:nth-child(2) {
         max-width: 3%;
     }
